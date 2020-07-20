@@ -10,5 +10,5 @@
 ## 完成时间：2020年7月19日
 ## SEIR模型预测效果
 ![image](https://github.com/CharonMing/COVID-19-Estimation/blob/master/SEIR.png)
-## SEIR模型预测效果
+## LSTM模型预测效果
 ![image](https://github.com/CharonMing/COVID-19-Estimation/blob/master/LSTM2%E2%80%94%E2%80%94pred.png)
