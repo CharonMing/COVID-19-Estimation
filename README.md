@@ -5,7 +5,7 @@
 ## Visualization COVID-19 Epidemic Analysis and Estimation
 ## 参赛单位：成都理工大学
 ## 队伍名称：穷于理成于工
-## 指导老师：刘老师
+## 指导老师：刘同
 ## 参赛队员：刘家明，李登柯，何卓骏
 ## 完成时间：2020年7月19日
 ## SEIR模型预测效果
